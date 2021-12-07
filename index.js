@@ -1,5 +1,5 @@
 let dictionaryEasy = [{
-    eng: "Name1",
+    eng: "Name",
     rus: "Имя"
 },
 {
